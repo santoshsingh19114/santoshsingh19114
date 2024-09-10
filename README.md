@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak98765&label=Profile%20views&color=0e75b6&style=flat" alt="santoshsingh19114" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshsingh19114&label=Profile%20views&color=0e75b6&style=flat" alt="santoshsingh19114" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santoshsingh19114" alt="santoshsingh19114" /></a> </p>
 
