@@ -14,7 +14,7 @@
 
 ---
 
-I'm a dedicated and enthusiastic **Computer Science Engineering** student in my 2nd year at **KIET Group of Institutions**.
+I'm a dedicated and enthusiastic **Computer Science Engineering** student in my 3rd year at **KIET Group of Institutions**.
 My journey in the world of technology is driven by a strong passion for coding and continuous learning.
 
 💻 **Technical Skills**:
